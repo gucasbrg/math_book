@@ -1,0 +1,25 @@
+NLP:
+	 第1课：文本分类：lstm+crf等
+	 第2课：深度文本匹配：DSSM/CDSSM/ESIM
+	 第3课：attention机制变种transformer等
+	 第4课：机器翻译：seq2seq、facebook-CNN、GNMT
+	 第5课：预训练：ELMo/BERT/GPT-2	
+
+cv:
+	第6课：常用CNN网络 VGGNet、resnet、googlenet
+	第7课：目标检测上册：R-CNN、fast R-CNN、SSD、faster R-CNN
+	第8课：目标检测下册 YOLO YOLOV2 YOLOV3
+	第9课：文字识别OCR CRNN
+	第10课：deepfake：pix2pix、deepwap
+	第11课：图片生成：AE、VAE、GAN
+	
+其他：
+	第12课：时序预测
+	第13课：CTR预估：LR、Xgboost、Wide&Deep
+	第14课：推荐排序： FM、DeepFM、FNN、PNN
+	第15课：语言合成： wavenet
+	第16课：对抗神经网络： GAN、cycleGAN等
+	第17课：强化学习： Reinforcement Learning
+	
+	
+	
